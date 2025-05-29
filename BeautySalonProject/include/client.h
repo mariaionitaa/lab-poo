@@ -1,7 +1,7 @@
 #ifndef CLIENT_H
 #define CLIENT_H
 
-#include "Interfaces.h"
+#include "interfaces.h"
 #include <string>
 #include <vector>
 #include <ostream>
