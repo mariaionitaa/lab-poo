@@ -3,7 +3,7 @@
 
 #include <string>
 #include <vector>
-#include "Utils.h"
+#include "utils.h"
 
 namespace Beauty_Salon {
     // Clasa de baza pentru toti angajatii salonului
