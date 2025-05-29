@@ -1,7 +1,7 @@
 #ifndef PRODUCT_H
 #define PRODUCT_H
 
-#include "Interfaces.h"
+#include "interfaces.h"
 #include <string>
 #include <vector>
 
