@@ -1,4 +1,4 @@
-#include "Appointment.h"
+#include "appointment.h"
 #include <iostream>
 #include <ctime>
 
