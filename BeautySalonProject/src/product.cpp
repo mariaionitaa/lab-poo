@@ -1,4 +1,4 @@
-#include "Product.h"
+#include "product.h"
 #include <iostream>
 #include <algorithm>
 
