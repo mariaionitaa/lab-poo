@@ -1,4 +1,4 @@
-#include "Employee.h"
+#include "employee.h"
 #include <iostream>
 
 namespace Beauty_Salon {
