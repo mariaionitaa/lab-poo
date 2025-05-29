@@ -1,10 +1,10 @@
 #ifndef APPOINTMENT_H
 #define APPOINTMENT_H
 
-#include "Client.h"
-#include "Employee.h"
-#include "Service.h"
-#include "Utils.h"
+#include "client.h"
+#include "employee.h"
+#include "service.h"
+#include "utils.h"
 #include <string>
 #include <ctime>
 
