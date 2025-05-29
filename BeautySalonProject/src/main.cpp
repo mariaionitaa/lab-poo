@@ -3,12 +3,12 @@
 #include <vector>
 #include <string>
 
-#include "Service.h"
-#include "Employee.h"
-#include "Client.h"
-#include "Appointment.h"
-#include "Schedule.h"
-#include "Product.h"
+#include "service.h"
+#include "employee.h"
+#include "client.h"
+#include "appointment.h"
+#include "schedule.h"
+#include "product.h"
 
 using namespace Beauty_Salon;
 
