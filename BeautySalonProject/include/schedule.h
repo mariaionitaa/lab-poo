@@ -1,7 +1,7 @@
 #ifndef SCHEDULE_H
 #define SCHEDULE_H
 
-#include "Appointment.h"
+#include "appointment.h"
 #include <vector>
 #include <map>
 #include <memory>
