@@ -1,8 +1,8 @@
 #ifndef SERVICE_H
 #define SERVICE_H
 
-#include "Interfaces.h"
-#include "Utils.h"
+#include "interfaces.h"
+#include "utils.h"
 #include <string>
 #include <iostream>
 #include <vector>
